@@ -1,6 +1,6 @@
 # PDbackup
 
-Backup users, teams, services, schedules and escalation policies as a somple JSON file
+Backup users, teams, services, schedules and escalation policies as a simple JSON file
 
 ## Installation
 
